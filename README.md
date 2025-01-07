@@ -3,14 +3,15 @@
   
 # Overview
 
-This repository contains a Financial Dashboard developed in Power BI to provide insightful visualizations for financial performance and decision-making. The dashboard is made to make complicated financial data easier to understand, emphasize important measures, and let stakeholders keep an eye on trends.
+This Power BI dashboard provides a comprehensive analysis of financial data, enabling businesses to monitor performance, identify trends, and make data-driven decisions. The dashboard offers insights into sales, profit, discounts, and product performance across various segments and regions.The dashboard is made to make complicated financial data easier to understand, emphasize important measures, and let stakeholders keep an eye on trends.
 
 # Features
-* **Key Financial Metrics:** Tracks revenue, expenses, profit margins, and net income.
-* **Trend Analysis:** Visual representation of financial trends over time.
-* **Performance Insights:** Analysis of budget vs. actual performance and variance.
-* **Interactive Visualizations:** Dynamic filters for period, region, and business unit.
-* **Forecasting:** Predictive analytics for future financial trends using historical data.
+* **Revenue Analysis:** Tracks gross and net sales with profitability metrics.
+* **Sales Trends:** Monthly and yearly trends for better planning and forecasting.
+* **Geographical Insights:** Visual representation of sales across different countries.
+* **Discount Impacts:** Detailed analysis of how discounts influence profitability.
+* **Product and Segment Performance:** Predictive analytics for future financial trends using historical data.
+* **Interactive Filters:** Drill-down capabilities by segment, product, country, and time period.
 
 # Tools and Technologies
 * **Power BI** : For building and visualizing dashboards
