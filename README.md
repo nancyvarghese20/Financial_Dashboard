@@ -12,4 +12,9 @@ This repository contains a Financial Dashboard developed in Power BI to provide 
 * **Interactive Visualizations:** Dynamic filters for period, region, and business unit.
 * **Forecasting:** Predictive analytics for future financial trends using historical data.
 
-# Data Sources
+# Tools and Technologies
+* **Power BI** : For building and visualizing dashboards
+* **DAX** : For advanced calculations and measures
+* **Power Query**: For data cleaning and transformation
+
+# Preview 
