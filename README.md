@@ -6,7 +6,7 @@
 This repository contains a Financial Dashboard developed in Power BI to provide insightful visualizations for financial performance and decision-making. The dashboard is made to make complicated financial data easier to understand, emphasize important measures, and let stakeholders keep an eye on trends.
 
 # Features
- Key Financial Metrics:
+ ### Key Financial Metrics:
                         Tracks revenue, expenses, profit margins, and net income.
  Trend Analysis: 
                 Visual representation of financial trends over time.
