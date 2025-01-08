@@ -19,5 +19,5 @@ This Power BI dashboard provides a comprehensive analysis of financial data, ena
 * **Power Query**: For data cleaning and transformation
 
 # Preview 
-![image](https://github.com/user-attachments/assets/8eac773d-e20c-4ea9-a628-1a546dd87ca9)
+
 
